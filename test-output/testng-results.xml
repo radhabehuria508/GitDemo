@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-01T19:53:44 IST" name="Default suite" finished-at="2025-02-01T19:53:44 IST" duration-ms="128">
+    <groups>
+    </groups>
+    <test started-at="2025-02-01T19:53:44 IST" name="Default test" finished-at="2025-02-01T19:53:44 IST" duration-ms="128">
+      <class name="test.child1">
+        <test-method is-config="true" signature="login()[pri:0, instance:test.child1@5ab956d7]" started-at="2025-02-01T19:53:44 IST" name="login" finished-at="2025-02-01T19:53:44 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="testing()[pri:0, instance:test.child1@5ab956d7]" started-at="2025-02-01T19:53:44 IST" name="testing" finished-at="2025-02-01T19:53:44 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:test.child1@5ab956d7]" started-at="2025-02-01T19:53:44 IST" name="logout" finished-at="2025-02-01T19:53:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- test.child1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
